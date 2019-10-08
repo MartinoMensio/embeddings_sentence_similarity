@@ -12,5 +12,10 @@ https://github.com/explosion/spacy-models/releases/download/en_trf_xlnetbasecase
 tensorflow
 cairosvg
 
+# for infersent
+torch
+nltk
+matplotlib
+
 pylint
 autopep8
