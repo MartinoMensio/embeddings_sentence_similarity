@@ -17,5 +17,8 @@ torch
 nltk
 matplotlib
 
+# for universalsentenceencoder
+tensorflow-hub
+
 pylint
 autopep8

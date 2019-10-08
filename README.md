@@ -13,3 +13,9 @@ Run the infersent similarity:
 ```bash
 streamlit run main_infersent.py
 ```
+
+Run the Universal sentence encoder similarity:
+
+```bash
+streamlit run main_universalsentenceencoder.py
+```
